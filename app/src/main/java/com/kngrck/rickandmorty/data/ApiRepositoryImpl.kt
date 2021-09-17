@@ -3,8 +3,6 @@ package com.kngrck.rickandmorty.data
 import com.kngrck.rickandmorty.data.entity.CharacterResponse
 import com.kngrck.rickandmorty.data.entity.CharactersResponse
 import com.kngrck.rickandmorty.domain.repository.ApiRepository
-import com.kngrck.rickandmorty.utils.performNetworkOperation
-import dagger.Provides
 import retrofit2.Response
 import javax.inject.Inject
 import javax.inject.Singleton
